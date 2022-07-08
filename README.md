@@ -12,10 +12,10 @@ Visit hosted application by Clicking Here -> [Steganify](https://steganify.herok
 5. User has to upload image and give security pin to decode his image.
 
 # Tech Stack
-    ### Front-End  
-      1. HTML
-      2. Bootstrap
-      3. JS
+  ### 1. Front-End  
+      - HTML
+      - Bootstrap
+      - JS
       
-    ### Server
-      1. Flask API
+  ### 2. Server
+      - Flask API
