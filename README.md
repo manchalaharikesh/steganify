@@ -12,10 +12,8 @@ Visit hosted application by Clicking Here -> [Steganify](https://steganify.herok
 5. User has to upload image and give security pin to decode his image.
 
 # Tech Stack
-  ### 1. Front-End  
       - HTML
       - Bootstrap
       - JS
-      
-  ### 2. Server
       - Flask API
+      - Stegano (python module)
