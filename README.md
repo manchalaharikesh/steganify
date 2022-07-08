@@ -1,7 +1,7 @@
 # steganify
 
 It is a web application which is based on image steganography. This web app has been deployed using heroku hosting platform.
-Visit hosted application by [Clicking Here](https://steganify.herokuapp.com/)
+Visit hosted application by Clicking Here -> [Steganify](https://steganify.herokuapp.com/)
 
 # How this works?
 
